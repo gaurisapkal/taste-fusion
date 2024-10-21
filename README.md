@@ -1,4 +1,4 @@
-# Food Delivery Platform
+# Taste Fusion Online Food Delivery webApp
 
 ## Project Overview
 
@@ -48,14 +48,14 @@ By focusing on **intuitive design**, **real-time notifications**, and **responsi
 The app is expected to deliver a sophisticated food delivery solution that enhances user satisfaction and drives business growth for restaurants.
 
 ## User Interface
-- **Home Page**: (https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525346/10_w4eodk.jpg)
-- **Menu**: (https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525348/21_j92fl3.jpg)
-- **Contact Us**: (https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525346/13_o5pytw.jpg)
-- **Cart**: (https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525348/22_ijkzop.jpg)
-- **CheckOut**: (https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525348/25_bhd1cc.jpg)
-- **Payment**: (https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525348/27_ec4vmf.jpg)
-- **My Orders**: (https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525349/38_bm2wbr.jpg)
-- **Admin Dashboard**: (https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525349/36_yllhid.jpg)
+- **Home Page**: https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525346/10_w4eodk.jpg
+- **Menu**: https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525348/21_j92fl3.jpg
+- **Contact Us**: https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525346/13_o5pytw.jpg
+- **Cart**: https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525348/22_ijkzop.jpg
+- **CheckOut**: https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525348/25_bhd1cc.jpg
+- **Payment**: https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525348/27_ec4vmf.jpg
+- **My Orders**: https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525349/38_bm2wbr.jpg
+- **Admin Dashboard**: https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525349/36_yllhid.jpg
 
 ## Contact Information
 
