@@ -52,6 +52,6 @@ The app is expected to deliver a sophisticated food delivery solution that enhan
 For inquiries or to access the full working project, feel free to contact me:
 
 - **LinkedIn**: 
-- **Email**: (mailto:gaurissapkal8686@gmail.com)
+- **Email**: gaurissapkal8686@gmail.com
 
 I'd be happy to connect and provide more details!
