@@ -47,11 +47,14 @@ By focusing on **intuitive design**, **real-time notifications**, and **responsi
 
 The app is expected to deliver a sophisticated food delivery solution that enhances user satisfaction and drives business growth for restaurants.
 
+## User Interface
+![Home Page](https://res.cloudinary.com/duqoyhcv4/image/upload/v1729525346/10_w4eodk.jpg)
+
 ## Contact Information
 
 For inquiries or to access the full working project, feel free to contact me:
 
-- **LinkedIn**: 
+- **LinkedIn**: www.linkedin.com/in/gaurisapkal
 - **Email**: gaurissapkal8686@gmail.com
 
 I'd be happy to connect and provide more details!
